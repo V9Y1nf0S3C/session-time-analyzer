@@ -1,0 +1,15 @@
+GET /assets/chunk-ui_packages_hydro-analytics_hydro-analytics_ts-ui_packages_jump-to-element_model_ts-e736e47f77d1.js HTTP/2
+Host: github.githubassets.com
+Origin: https://github.com
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Chromium";v="199", "Not_A Brand";v="24"
+User-Agent: Mozilla/5.0 (Windows NT 19; Win64; x64) AppleWebKit/599.99 (KHTML, like Gecko) Chrome/199.0.9979.99 Safari/599.99
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: script
+Referer: https://github.com/
+Accept-Encoding: gzip, deflate, br
+
